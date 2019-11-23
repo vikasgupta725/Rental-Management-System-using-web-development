@@ -1,0 +1,65 @@
+body
+{
+	background: url(hgf.jpg);
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	font-family:Times New Roman,Times,serif;
+}
+h1
+{
+	margin:0;
+	padding:0 0;
+	text-align:center;
+	font-size:22px;
+	
+	
+}
+.box
+{
+	width:400px;
+	height:450px;
+	background:yellow;
+	color:black;
+	top:50%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+    box-sizing:border-box;
+	padding:20px 30px;
+	font-weight:bold;
+	box-shadow: 0px 0px 15px 3px rgba(0,0,0,1);
+
+}
+.box input
+{
+width:200px;
+	height:30px;
+	border-radius:5px;	
+	
+}
+.box input[type="submit"]
+{
+	border:none;
+	outline:none;
+	height:40px;
+	background:red;
+	color:#fff;
+	font-size:18px;
+	border-radius:20px;
+	width:100%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.box input[type="submit"]:hover
+{
+	cursor:pointer;
+	background-color:DarkGreen;
+	color:#000;
+}
+p{
+	margin-top:20px;
+	margin-bottom:5px;
+}

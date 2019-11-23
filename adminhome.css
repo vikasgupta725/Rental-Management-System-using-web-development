@@ -1,0 +1,260 @@
+*
+{
+margin:0;
+padding:0;
+font-family:sans-serif;
+}
+body
+{
+	background-image:url('mm.jpg');
+	background-size: 100% 100%;
+	width:100%;
+	height:100vh;
+}
+ ul
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	margin:0;
+	padding:20px 5px;
+	background:transparent;
+	display:flex;
+}
+ ul li
+{
+	list-style:none;
+	text-align:center;
+	display:block;
+}
+ ul li a
+{
+	text-decoration:none;
+	padding:0 30px;
+	display:block;
+}
+ ul li a .icon1
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:indigo;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ ul li a .icon1:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}
+ ul li a .icon2:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}
+ ul li a .icon3:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}
+ ul li a .icon4:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}
+ ul li a .icon5:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}
+ ul li a .icon6:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}
+ul li a .icon8:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}  
+ul li a .icon7:hover
+{
+pointer:cursor;
+box-shadow: 0 10px 30px rgba(0,0,0,1);
+}  
+ ul li a .icon1 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+ ul li a .icon2
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:tomato;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon2 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+ul li a .icon3
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:gold;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon3 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+ul li a .icon4
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:greenyellow;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon4 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+ul li a .icon5
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:magenta;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon5 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+ul li a .icon6
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:cyan;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon6 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+ul li a .icon7
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:deeppink;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon7 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+.name
+{
+	color:white;
+	font-weight:bold;
+}
+.name:hover
+{
+	color:red;
+}
+h4
+{
+	font-weight:bold;
+    font-size:20px;
+	padding: 15px 20px;
+	color:white;
+	float:left;
+}
+h2
+{
+	float:right;
+	font-weight:bold;
+    font-size:20px;
+	padding: 15px 20px;
+}
+.menu
+{
+	width:100%;
+	height:60px;
+	background-color:crimson;
+	color:white;
+}	
+ul li a .icon8
+{
+	width:80px;
+	height:80px;
+	text-align:center;
+	background:blue;
+	overflow:hidden;
+	margin: 0  auto 10px;
+	border-radius:50%;
+}
+ul li a .icon8 .fa
+{
+	width:100%;
+	height:100%;
+	line-height:40px;
+	color:white;
+    font-size:50px;
+	line-height:80px; 
+}
+
